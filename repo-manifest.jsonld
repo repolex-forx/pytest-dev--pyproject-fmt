@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pytest-dev/pyproject-fmt/commit/248a2541c72e456619338e1bd372242e08d64fd2",
       "git:hexsha": "248a2541c72e456619338e1bd372242e08d64fd2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pytest-dev/pyproject-fmt/commit/869bb838e34017a780daea6d6a88a96580bdfe30",
