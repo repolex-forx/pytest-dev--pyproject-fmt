@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "pytest-dev",
+  "repo": "pyproject-fmt",
+  "versions": [
+    {
+      "commit": "248a2541c72e456619338e1bd372242e08d64fd2",
+      "parsed_at": "2026-10-11T02:47:42.718942+00:00",
+      "filetree": "filetree/248a2541c72e456619338e1bd372242e08d64fd2.nq.gz",
+      "blobs": [
+        "blob/cbc2f0858ab7fb15e68268ac3bd7bfb223efa1d2.nq.gz",
+        "blob/43c85e79255e2b09a3c021d3b1bf357e3c6676ba.nq.gz",
+        "blob/f519bca90c5ef8b0f2d9c8de96ca02778df0a662.nq.gz",
+        "blob/364982344fbd94d55705e1f27a9a87abaa255333.nq.gz",
+        "blob/4425c229252139bd2641fda4badd61ca3cf27f6c.nq.gz",
+        "blob/acd071cc82d5d6620ef7caedb1bc2fc7eb89f2a2.nq.gz",
+        "blob/ab527f0acf7ebd3ce108ad5e8acfdbf4355d0b06.nq.gz",
+        "blob/6672d106fecd2c5fb42c492c6c1c761589a81a02.nq.gz",
+        "blob/75b94899d666ab2d3cfeb69e95c2114765b443d1.nq.gz",
+        "blob/665ae512db05e06307dfe50832929d53a908a76d.nq.gz",
+        "blob/123014908bebbfb7ecfa1d15daaceb272fabe05b.nq.gz",
+        "blob/5f89818f9e63c2f6829c7706c57f223cdb5bbd38.nq.gz",
+        "blob/ae419c100b25005bd082785a7709b42a9e0300ba.nq.gz",
+        "blob/be0cb7952afbec927c8a6ad4fe1815786a5fc9a0.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
